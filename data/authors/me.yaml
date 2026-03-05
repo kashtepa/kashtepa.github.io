@@ -2,14 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
+  display: Shtepa Kristina
+  given: Kristina
+  family: Shtepa
+  pronunciation: Shtepa Kristina
   pronouns: she/her
 status:
   icon: "☕️"
-role: Professor of Artificial Intelligence
+role: role
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 affiliations:
   - name: Stanford University
